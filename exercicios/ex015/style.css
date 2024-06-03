@@ -1,0 +1,19 @@
+body{
+background-color: grey;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 15;
+}
+
+h1 {
+    color: deeppink;
+
+}
+
+h2 {
+    color: dodgerblue;
+
+}
+
+p {
+    text-align: justify;
+}
